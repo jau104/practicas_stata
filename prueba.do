@@ -26,6 +26,12 @@ egen hogar=group(codusu trimestre nro_hogar)
 
 keep if aglomerado==19
 
+****** usar tablas de Stata 14 en Stata 17 ******
+
+version 14: //linea do de tablas u otro comando que se necesite ejecuatar como stata 14
+
+
+
 
 
 
